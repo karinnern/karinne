@@ -1,0 +1,329 @@
+html{
+    background-color:#FFDE59;
+}
+
+.img{
+    position: absolute;
+    width: 650px;
+    height: 150px;
+    right: 600px;
+    top: 260px;
+}
+
+.centro{
+    margin-top: 15%;
+    text-align: center;
+    border-radius: 10%;
+}
+
+.pesquisa{
+    font-size: 30px;
+    padding-left: 70px;
+    cursor: pointer;
+    position: absolute;
+    width: 787px;
+    height: 54px;
+    left: 29%;
+    top: 400px;
+
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 95px;
+}
+
+
+.a1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 296px;
+    height: 183px;
+    left: 517px;
+    top: 700px;
+
+
+}
+
+.a2{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 224px;
+    height: 183px;
+    left: 865px;
+    top: 700px;
+}
+
+.a3{
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 224px;
+    height: 183px;
+    left: 37px;
+    top: 700px;
+}
+
+.a4{
+
+    position: absolute;
+    width: 191px;
+    height: 183px;
+    left: 1149px;
+    top: 700px;
+
+
+}
+
+.a5{
+
+    position: absolute;
+    width: 180px;
+    height: 183px;
+    left: 285px;
+    top: 700px;
+
+}
+
+.t2logo{
+position: absolute;
+width: 316px;
+height: 70px;
+left: 60px;
+top: 64px;
+
+
+}
+
+
+.t2p{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 676px;
+height: 60px;
+left: 382px;
+top: 68px;
+cursor: pointer;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 95px;
+
+}
+
+
+/* box-sizing: border-box;
+
+position: absolute;
+width: 55px;
+height: 50px;
+left: 1003px;
+top: 73px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 95px;
+
+
+ Search
+
+
+position: absolute;
+width: 45px;
+height: 42px;
+left: 1009px;
+top: 77px;
+
+background: url(.png); */
+
+.eng{
+    cursor: pointer;
+    right: 1%;
+    position: absolute;
+    width: 47.51px;
+    height: 45px;
+
+}
+
+.t2vaq{
+    position: absolute;
+    width: 461.29px;
+    height: 286px;
+    left: 74px;
+    cursor: pointer;
+    top: 170px;
+    
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.texto1{
+    
+position: absolute;
+width: 187px;
+height: 57px;
+left: 904px;
+top: 180px;
+
+font-family: 'Mitr';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 57px;
+/* identical to box height */
+
+text-decoration-line: underline;
+
+color: #000000;
+
+}
+
+.texto2{
+    position: absolute;
+width: 585px;
+height: 269px;
+left: 705px;
+top: 240px;
+
+font-family: 'Moulpali';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 139.5%;
+/* or 31px */
+
+text-align: center;
+letter-spacing: 0.01em;
+
+color: #000000;
+}
+
+.i1{
+    
+position: absolute;
+width: 22.3px;
+margin-left: 5%;
+
+height: 23px;
+}
+
+.tp1{
+    cursor: pointer;
+margin-left: 7%;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.tp2{
+    cursor: pointer;
+    margin-top: -39px;
+    margin-left: 15.5%;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.tp3{
+    cursor: pointer;
+    margin-left: 7%;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin-left: 24%;
+    margin-top: -38px;
+}
+
+.tp4{
+    cursor: pointer;
+    margin-left: 7%;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    margin-left: 32%;
+    margin-top: -39px;
+}
+
+    .i2{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    margin-left: 13.5%;
+    margin-top: -38px;
+
+    }
+
+.i3{
+position: absolute;
+width: 22px;
+height: 22px;
+margin-left: 22%;
+margin-top: -39px;
+
+}
+
+.i4{
+position: absolute;
+width: 16.89px;
+height: 19px;
+margin-left: 30%;
+margin-top: -39px;
+}
+
+.sup{
+    height: 150px;
+/* background-color: aqua; */
+}
+.med{
+    height: 320px;
+    /* background-color: aliceblue; */
+}
+.desc{
+    height: 20px;
+    /* background-color: #f06799; */
+}
+.ult{
+    height: 400px;
+    margin-top: 3%;
+    /* background-color: aqua; */
+
+}
+
+
+.tu2{
+    font-family: 'Nunito', sans-serif;
+    cursor: pointer;
+    text-decoration: underline;
+    color: rgb(42, 39, 39);
+}
+
+.tu1{
+    margin-top: 3%;
+    font-family: 'Noto Sans', sans-serif;
+    cursor: pointer;
+    
+}
+
+
+  .lupaa{
+    cursor: pointer;
+    left: 72%;
+    position: absolute;
+    width: 47.51px;
+    height: 45px;
+    top: 44%;
+  }
+
+  .micc{
+    cursor: pointer;
+    left: 30%;
+    position: absolute;
+    width: 47.51px;
+    height: 45px;
+    top: 44%;
+  }
+
+  .lupaa2{
+    cursor: pointer;
+    left: 58%;
+    position: absolute;
+    width: 47.51px;
+    height: 45px;
+    top: 8%;
+  }
